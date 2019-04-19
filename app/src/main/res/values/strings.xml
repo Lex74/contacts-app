@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KonturContacts</string>
+
+    <string name="empty_list">Нет данных для отображения</string>
+    <string name="search">Поиск</string>
+    <string name="error_message">Произошла ошибка, попробуйте ещё раз (%s)</string>
+</resources>
